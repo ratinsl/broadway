@@ -1,1 +1,27 @@
+* {
+  font-family: Helvetica, sans-serif;
+}
 
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white
+}
+
+.hero {
+  text-align: center;
+  background-image: url("file:///Users/rockrt/Documents/00_ryan_local/codecademy/projects/broadway/resources/images/the-flatiron-building.png");
+}
+
+.btn-nav {
+  font-size: 18px;
+  color: white;
+}
+
+.supporting {
+  text-align: center;
+}
+
+.supporting-item {
+  text-align: center;
+}
