@@ -8,9 +8,22 @@ h1 {
   color: white
 }
 
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
 .hero {
   text-align: center;
-
   background-image: url("../images/the-flatiron-building.png");
 }
 
@@ -25,4 +38,19 @@ h1 {
 
 .supporting-item {
   text-align: center;
+}
+
+.footer {
+  color: white;
+  background-color: dimgray;
+}
+
+.foot-nav {
+  font-size: 11px;
+  color: white;
+
+}
+
+.mini-hero {
+  color: white;
 }
