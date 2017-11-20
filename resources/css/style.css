@@ -13,6 +13,11 @@ h2 {
   font-weight: bold;
 }
 
+.hero h2 {
+  font-size: 23px;
+  color: white;
+}
+
 h3 {
   font-size: 23px;
   font-weight: bold;
@@ -22,6 +27,7 @@ p {
   font-size: 14px;
 }
 
+/* Hero Image */
 .hero {
   text-align: center;
   background-image: url("../images/the-flatiron-building.png");
@@ -32,6 +38,10 @@ p {
   color: white;
 }
 
+.mini-hero {
+    color: white;
+}
+
 .supporting {
   text-align: center;
 }
@@ -40,6 +50,7 @@ p {
   text-align: center;
 }
 
+/* footer section */
 .footer {
   color: white;
   background-color: dimgray;
@@ -48,8 +59,4 @@ p {
 .foot-nav {
   font-size: 11px;
   color: white;
-}
-
-.mini-hero {
-    color: white;
 }
